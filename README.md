@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
-<h3 align="center">I'm passionate web developer</h3>
 
-- 🌱 I’m currently learning **React Native**
+-  I’m a web developer working mainly with **React** and **Java**
 
-- 📫 How to reach me **kacper.reja@gmail.com**
+-  How to reach me **kacper.reja@gmail.com**
 
 <p align="left">
 </p>
